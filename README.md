@@ -27,4 +27,4 @@
 
 ###
 
-<h2>  - 📖 Check my projects: </h2>
+<h2>  - 📖 Check out my projects: </h2>
