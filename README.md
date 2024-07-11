@@ -1,5 +1,5 @@
 
-<p align="left">✨ 👋 Hi, I’m @IsaacDuart<br> 📚 I'm currently studying Computer Science at IFCE</p>
+<p align="left"> 👋 Hi, I’m @IsaacDuart<br> 📚 I'm currently studying Computer Science at IFCE</p>
 
 ###
 
