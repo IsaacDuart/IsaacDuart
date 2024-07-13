@@ -1,32 +1,45 @@
-
-<p align="left"> 👋 Hi, I’m @IsaacDuart<br> 📚 I'm currently studying Computer Science at IFCE</p>
+<h1 align="center">👋 Hi, I´m @IsaacDuart</h1>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IsaacDuart&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IsaacDuart&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=IsaacDuart.IsaacDuart&"  />
 </div>
 
 ###
 
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/b0/7b/5b/b07b5bbfc32b4958810d59a79cd3aac9.gif"  />
-</div>
+<h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+<p align="left">- 🔭 Full Stack developer<br>- 📚 I am currently studying Computer Science at IFCE (1/8)<br>- ⚡ In my free time I like to study philosophy, mathematics and physics<br>- ☕ Learning Java</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
 ###
 
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
 <div align="center">
+  <img src="https://streak-stats.demolab.com?user=IsaacDuart&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
