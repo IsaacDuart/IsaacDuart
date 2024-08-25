@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">- 🔭 Full Stack developer<br>- 📚 I am currently studying Computer Science at IFCE (1/8)<br>- ⚡ In my free time I like to study philosophy, mathematics and physics<br>- ☕ Learning Java</p>
+<p align="left">- 🔭 Back-end developer<br>- 📚 I am currently studying Computer Science at IFCE (1/8)<br>- ⚡ In my free time I like to study philosophy, mathematics and physics<br>- ☕ Learning Java</p>
 
 ###
 
@@ -20,15 +20,7 @@
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-</div>
+
 
 ###
 
