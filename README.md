@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">- 🔭 Back-end developer<br>- 📚 I am currently studying Computer Science at IFCE (1/8)<br>- ⚡ In my free time I like to study philosophy, mathematics and physics<br>- ☕ Learning Java</p>
+<p align="left">- 🔭 Back-end developer<br>- 📚 I am currently studying Computer Science at IFCE (2/8)<br>- /p>
 
 ###
 
