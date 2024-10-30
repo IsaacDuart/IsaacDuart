@@ -2,7 +2,7 @@
   <a href="https://www.hackerrank.com/profile/isaacunhaid" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
   </a>
-  <a href="mailto:isaacunhaid@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=isaacunhaid@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
@@ -48,9 +48,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IsaacDuart&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IsaacDuart&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=jolly&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=IsaacDuart&locale=en&mode=daily&theme=jolly&hide_border=false&border_radius=5&order=3" height="142" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=IsaacDuart&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=en&hide_border=false&order=1" height="120" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IsaacDuart&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=jolly&hide_border=false&order=2" height="120" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=IsaacDuart&locale=en&mode=daily&theme=jolly&hide_border=false&border_radius=5&order=3" height="122" alt="streak graph"  />
 </div>
 
 ###
