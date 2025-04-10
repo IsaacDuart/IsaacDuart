@@ -33,21 +33,15 @@
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
-
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring boot logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" style="background-color: white; border-radius: 6px;" />
-  
+  <img src="https://img.shields.io/static/v1?message=.NET&logo=dotnet&label=&color=512BD4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt=".NET logo" />
+  <img src="https://img.shields.io/static/v1?message=Spring Boot&logo=spring&label=&color=6DB33F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="spring boot logo" />
+  <img src="https://img.shields.io/static/v1?message=React&logo=react&label=&color=61DAFB&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="react logo" />
+  <img src="https://img.shields.io/static/v1?message=Next.js&logo=next.js&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="nextjs logo" />
+  <img src="https://img.shields.io/static/v1?message=MySQL&logo=mysql&label=&color=4479A1&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="mysql logo" />
+  <img src="https://img.shields.io/static/v1?message=JavaScript&logo=javascript&label=&color=F7DF1E&logoColor=black&labelColor=&style=for-the-badge" height="25" alt="javascript logo" />
+  <img src="https://img.shields.io/static/v1?message=TypeScript&logo=typescript&label=&color=3178C6&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="typescript logo" />
+  <img src="https://img.shields.io/static/v1?message=Java&logo=java&label=&color=007396&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="java logo" />
 </div>
 
 ###
