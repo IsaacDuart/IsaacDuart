@@ -35,7 +35,7 @@
 ###
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=.NET&logo=dotnet&label=&color=512BD4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt=".NET logo" />
-  <img src="https://img.shields.io/static/v1?message=Spring Boot&logo=spring&label=&color=6DB33F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="spring boot logo" />
+  <img src="https://img.shields.io/static/v1?message=Spring Boot&logo=springboot&label=&color=6DB33F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Spring Boot logo" />
   <img src="https://img.shields.io/static/v1?message=React&logo=react&label=&color=61DAFB&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="react logo" />
   <img src="https://img.shields.io/static/v1?message=Next.js&logo=next.js&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="nextjs logo" />
   <img src="https://img.shields.io/static/v1?message=MySQL&logo=mysql&label=&color=4479A1&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="mysql logo" />
