@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">🌐 Hello, world! I'm Isaac Duarte 👋<br>📚 Computer Science Student - IFCE - 3nd Semester<br>💻 Tech Enthusiast | 💡 Constant Learner | 🌱 Always Curious<br><br>Welcome to my GitHub! I'm passionate about technology and love exploring new tools, languages, and frameworks. As a computer science student, I'm building my skills project by project, diving into code, and learning more each day.<br><br>What you'll find here:<br><br>🌌 Experimental Projects<br>🛠️ Practice Repositories<br>🌱 Ongoing Learning Journeys<br>Let's build something amazing together! 🚀</p>
+<p align="left">🌐 Hello, world! I'm Isaac Duarte 👋<br>📚 Computer Science Student - IFCE - 3rd Semester<br>💻 Tech Enthusiast | 💡 Constant Learner | 🌱 Always Curious<br><br>Welcome to my GitHub! I'm passionate about technology and love exploring new tools, languages, and frameworks. As a computer science student, I'm building my skills project by project, diving into code, and learning more each day.<br><br>What you'll find here:<br><br>🌌 Experimental Projects<br>🛠️ Practice Repositories<br>🌱 Ongoing Learning Journeys<br>Let's build something amazing together! 🚀</p>
 
 ###
 
