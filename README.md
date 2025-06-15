@@ -33,12 +33,15 @@
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
+
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=.NET&logo=dotnet&label=&color=512BD4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt=".NET logo" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="25" alt="Spring Boot logo" />
-  <img src="https://img.shields.io/static/v1?message=React&logo=react&label=&color=61DAFB&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="react logo" />
-  <img src="https://img.shields.io/static/v1?message=Next.js&logo=next.js&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="nextjs logo" />
-  <img src="https://img.shields.io/static/v1?message=MySQL&logo=mysql&label=&color=4479A1&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="mysql logo" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="25" alt="spring logo" />
+  <img src="https://img.shields.io/static/v1?message=.NET&logo=dotnet&label=&color=512BD4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt=".net logo" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" height="25" alt="angular logo" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="25" alt="docker logo" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="25" alt="postgres logo" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="25" alt="mysql logo" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" height="25" alt="nextjs logo" />
   <img src="https://img.shields.io/static/v1?message=JavaScript&logo=javascript&label=&color=F7DF1E&logoColor=black&labelColor=&style=for-the-badge" height="25" alt="javascript logo" />
   <img src="https://img.shields.io/static/v1?message=TypeScript&logo=typescript&label=&color=3178C6&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="typescript logo" />
   <img src="https://img.shields.io/static/v1?message=Java&logo=java&label=&color=007396&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="java logo" />
@@ -54,5 +57,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=IsaacDuart&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=en&hide_border=false&order=1" height="140" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IsaacDuart&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=jolly&hide_border=false&order=2" height="140" alt="languages graph"  />
 </div>
-
-###
