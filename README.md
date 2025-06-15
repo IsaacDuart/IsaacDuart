@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/IsaacDuart/IsaacDuart/main/assets/banner.png" alt="Banner with futuristic tech elements" width="100%"/>
-  
   <div style="margin: 20px 0;">
     <a href="https://www.hackerrank.com/profile/isaacunhaid" target="_blank">
       <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="hackerrank logo"/>
@@ -31,14 +29,6 @@
     🌐 Hello, world! I'm Isaac Duarte 👋<br>
     📚 Computer Science Student - IFCE - 3rd Semester<br>
     💻 Tech Enthusiast | 💡 Constant Learner | 🌱 Always Curious<br><br>
-    
-    Welcome to my GitHub! I'm passionate about technology and love exploring new tools, languages, and frameworks. As a computer science student, I'm building my skills project by project, diving into code, and learning more each day.<br><br>
-    
-    What you'll find here:<br><br>
-    🌌 Experimental Projects<br>
-    🛠️ Practice Repositories<br>
-    🌱 Ongoing Learning Journeys<br>
-    Let's build something amazing together! 🚀
   </p>
 </div>
 
@@ -68,8 +58,4 @@
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacDuart&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages"/>
   <img src="https://github-profile-trophy.vercel.app/?username=IsaacDuart&theme=radical&no-bg=true&no-frame=true&column=4" width="48%" alt="Trophies"/>
-</div>
-
-<div align="center" style="margin-top: 20px;">
-  <img src="https://raw.githubusercontent.com/IsaacDuart/IsaacDuart/main/assets/footer.png" alt="Footer with tech elements" width="100%"/>
 </div>
