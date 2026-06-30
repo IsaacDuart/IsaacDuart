@@ -1,5 +1,7 @@
 <div align="center">
-
+ =====================================================================]=
+<br>
+<br>
 <img src="https://readme-typing-svg.demolab.com?font=Bodoni+Moda&weight=400&size=52&duration=1&pause=999999&color=5BCDEC&center=true&vCenter=true&repeat=false&width=680&height=58&lines=ISAAC+DUARTE" alt="Isaac Duarte"/><br>
 <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=12&duration=1&pause=999999&color=8B949E&center=true&vCenter=true&repeat=false&width=600&height=18&lines=COMPUTER+SCIENCE+STUDENT+AT+IFCE" alt="Computer Science student at IFCE"/><br>
 <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=400&size=13&duration=1&pause=999999&color=C9D1D9&center=true&vCenter=true&repeat=false&width=740&height=20&lines=BUILDING+SCALABLE,+INTELLIGENT+AND+DATA-DRIVEN+SOFTWARE." alt="Description"/><br>
@@ -56,4 +58,5 @@
 </div>
 <br><br>
 
+ =[====================================================================
 </div>
