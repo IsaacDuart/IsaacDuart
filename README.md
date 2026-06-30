@@ -51,21 +51,32 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 </pre>
 
-<br>
 
 <div align="center">
 <img
-  src="https://readme-typing-svg.demolab.com?font=Bodoni+Moda&weight=400&size=20&duration=1&pause=999999&color=5BCDEC&center=true&vCenter=true&repeat=false&width=320&height=42&lines=+-=====-+"
+  src="https://readme-typing-svg.demolab.com?font=Bodoni+Moda&weight=400&size=20&duration=1&pause=999999&color=8B949E&center=true&vCenter=true&repeat=false&width=320&height=42&lines=+-====-+"
   alt="Tech Stack"
 /><br>
  <img
-  src="https://readme-typing-svg.demolab.com?font=Bodoni+Moda&weight=400&size=20&duration=1&pause=999999&color=C9D1D9&center=true&vCenter=true&repeat=false&width=320&height=42&lines=my+technology+stack+-+"
+  src="https://readme-typing-svg.demolab.com?font=Bodoni+Moda&weight=400&size=20&duration=1&pause=999999&color=5BCDEC&center=true&vCenter=true&repeat=false&width=320&height=42&lines=+-+my+technology+stack+-+"
 /><br>
  <br>
-<img
-  src="https://skillicons.dev/icons?i=spring,dotnet,python,fastapi,ts,docker,postgres,mysql&theme=dark"
-  alt="Isaac Duarte Tech Stack"
-/>
+<img src="https://cdn.simpleicons.org/spring/FFFFFF" height="40" alt="Spring"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/dotnet/FFFFFF" height="40" alt=".NET"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/python/FFFFFF" height="40" alt="Python"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/fastapi/FFFFFF" height="40" alt="FastAPI"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/typescript/FFFFFF" height="40" alt="TypeScript"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/docker/FFFFFF" height="40" alt="Docker"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/postgresql/FFFFFF" height="40" alt="PostgreSQL"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/mysql/FFFFFF" height="40" alt="MySQL"/>
+
 </div>
 <br><br>
 
