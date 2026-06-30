@@ -55,11 +55,11 @@
 
 <div align="center">
 <img
-  src="https://readme-typing-svg.demolab.com?font=Bodoni+Moda&weight=400&size=30&duration=1&pause=999999&color=5BCDEC&center=true&vCenter=true&repeat=false&width=320&height=42&lines=TECH+STACK"
+  src="https://readme-typing-svg.demolab.com?font=Bodoni+Moda&weight=400&size=20&duration=1&pause=999999&color=5BCDEC&center=true&vCenter=true&repeat=false&width=320&height=42&lines=+-=====-+"
   alt="Tech Stack"
-/>
+/><br>
  <img
-  src="https://readme-typing-svg.demolab.com?font=Bodoni+Moda&weight=400&size=20&duration=1&pause=999999&color=C9D1D9&center=true&vCenter=true&repeat=false&width=320&height=42&lines=my+technology+stack"
+  src="https://readme-typing-svg.demolab.com?font=Bodoni+Moda&weight=400&size=20&duration=1&pause=999999&color=C9D1D9&center=true&vCenter=true&repeat=false&width=320&height=42&lines=my+technology+stack+-+"
 /><br>
  <br>
 <img
